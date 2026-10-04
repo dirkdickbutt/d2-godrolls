@@ -1,2 +1,5 @@
-//AUTUMN WIND
+title:custom list
+description:my personal favorites
+//Autumn Wind
+//notes:why isn't this working
 dimwishlist:item=2150012407&perks=3250034553,1561002382,2387244414,460017080,4236235115
