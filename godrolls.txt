@@ -1,5 +1,11 @@
 title:custom list
 description:my personal favorites
+
 //Autumn Wind
 //notes:why isn't this working
 dimwishlist:item=2150012407&perks=3250034553,1561002382,2387244414,460017080,4236235115
+
+//Randy's Throwing Knife
+//notes:Gambit scourge
+dimwishlist:item=3975115486&perks=4090651448,1885400500,1870851715,3891536761,2671305723
+dimwishlist:item=3975115486&perks=3250034553,1561002382,1870851715,3891536761,2671305723
